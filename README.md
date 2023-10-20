@@ -1,6 +1,5 @@
-<h1 align=center>E-Commerce Website with Django + React & Redux</h1>
-<h2 align=center>Otaku House - Anime Merchandise and Cosplay Shop</h2>
-
+<h1 align=center>Horizon - Anime Merchandise and Cosplay Shop</h1>
+<h2 align=center>E-Commerce Website for Cosplay and Merchandise</h2>
 
 
 ### How to Run 🏃‍♀️
@@ -28,18 +27,18 @@
 
 A completely customized eCommerce / shopping cart application using Django, REACT and REDUX with the following functionality:
 
-- Full featured shopping cart
+- Full-featured shopping cart
 - Product reviews and Ratings
-- Top products carousel
+- Top product carousel
 - Product pagination
 - Product search feature
 - User profile with orders
-- Admin product management
+- Admin Product Management
 - Admin user management
 - Admin Order details page
-- Mark orders as a delivered option
+- Mark the order as a delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 
 
-This project is use as a source for academic project through public licence. The neccesory changes are made according to the requirements. The source code or images belong to respecticve owner. 
+This project is used as a source for academic projects through public licence. Necessory changes are made according to the requirements. The source code and images belong to the respective owner. 
